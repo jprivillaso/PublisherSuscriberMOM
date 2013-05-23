@@ -1,5 +1,4 @@
 PublisherSuscriberMOM
-Juan Rivillas & Santiago Moreno
 =====================
 
 A publisher subscriptor in Java, using ActiveMQ and JMS
@@ -18,3 +17,4 @@ EXAMPLE OF EXECUTION
 9. Enter option 2 to publish a message through this channel 
 10. Go to ConsumerPanel Output and check the messages
 
+Authors: Juan Rivillas & Santiago Moreno
