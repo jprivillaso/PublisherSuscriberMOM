@@ -1,4 +1,5 @@
 PublisherSuscriberMOM
+Juan Rivillas & Santiago Moreno
 =====================
 
 A publisher subscriptor in Java, using ActiveMQ and JMS
