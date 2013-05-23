@@ -4,7 +4,7 @@ PublisherSuscriberMOM
 A publisher subscriptor in Java, using ActiveMQ and JMS
 
 
-GUIDE OF EXECUTION
+EXAMPLE OF EXECUTION
 
 1. Run PublisherPanel.java 
 2. Run ConsumerPanel.java
